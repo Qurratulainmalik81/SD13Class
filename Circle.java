@@ -10,7 +10,7 @@ static{
     count = 0;
 }
 //double Area;
-
+//comments
 // Constructor is a method with no return type, nit even void
 //and has same name as that of the class
 //no-argument constructor
